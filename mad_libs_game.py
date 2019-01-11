@@ -1,0 +1,6 @@
+color= input("enter a color: ")
+name= input("enter a name: ")
+celebrity= input("enter a celebrity: ")
+print("Roses are "+ color)
+print(name+" are blue")
+print("i love "+celebrity)
