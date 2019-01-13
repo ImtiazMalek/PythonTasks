@@ -1,0 +1,13 @@
+numbers=[56,52,4,63,12]
+friends=["siam","sumu","tan","tanvir","tuhin"]
+friends.append("shoaib")
+print(friends)
+friends.insert(6,25)
+print(friends)
+numbers.sort()
+print(numbers)
+print(friends.index("sumu"))
+friends.extend(numbers)
+print(friends)
+numbers2=numbers.copy()
+print(numbers2)
